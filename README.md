@@ -76,6 +76,7 @@ DNS traffic was not captured during this session. This may be due to:
 
 ### 7. Export as .pcap  
 Exported the capture using `File > Export Specified Packets`.  
+[Download PCAP File](network_scanning_via_wireshark.pcap)
 
 ---
 
